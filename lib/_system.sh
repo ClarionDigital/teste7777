@@ -35,7 +35,7 @@ system_git_clone() {
   sleep 2
 
   sudo su - deploy <<EOF
-  git clone https://github.com/matheus1628/Mtalk-Multi-Empresa /home/deploy/whaticket/
+  git clone https://github.com/ClarionDigital/0000 /home/deploy/installl/
 EOF
 
   sleep 2
